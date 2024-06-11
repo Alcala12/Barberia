@@ -1,0 +1,55 @@
+    .texto-principal
+    {
+        margin-left: 30px;
+    }
+    
+
+    #barber{
+        width:100%;
+    
+    }
+
+    .principal{
+        background: rgb(90, 98, 81);
+        padding: 20px;
+
+    }
+    .texto-cental{
+        text-align: center;
+    }
+
+
+    p{
+    text-align: center;
+    
+    }
+
+    em strong{
+        color: red;
+    }
+
+    #misión{
+        font-size: 20px;
+    }
+
+    .diferenciales{
+        background:#cc0303;
+        padding: 30px;
+    }
+
+    
+
+    .items{
+        font-style: italic;
+
+    }
+    ul{
+        display: inline-block;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+    }
+    .imagendiferincial{
+        width: 50%;
+    }  
+    
